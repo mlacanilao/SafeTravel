@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Meta>
+  <title>Safe Travel</title>
+  <id>omegaplatinum.elin.safetravel</id>
+  <author>OmegaPlatinum</author>
+  <loadPriority>100</loadPriority>
+  <description>
+    Allows players to explore the world map or overworld without encountering random battles.
+    プレイヤーがワールドマップやオーバーワールドを自由に探索できるようになり、ランダムエンカウントが発生しません。
+
+    [h1] Features [/h1]
+    [list]
+    [*] Disables random encounters while traveling on the world map or overworld.
+    [*] Works similarly to [b]ward monster[/b] perfume, preventing unwanted encounters.
+    [/list]
+
+    [h1] Compatibility [/h1]
+    This mod works with existing save files.
+
+    Supports Game Version: 0.23.83
+
+    [h1] 特徴 [/h1]
+    [list]
+    [*] ワールドマップやオーバーワールドでのランダムエンカウントを無効化。
+    [*] [b]魔除け[/b]と同様に、不意のエンカウントを防ぎます。
+    [/list]
+
+    [h1] 互換性 [/h1]
+    このMODは既存のセーブデータと互換性があります。
+
+    対応ゲームバージョン: 0.23.83
+  </description>
+  <tags>General, Balance</tags>
+  <visibility>Public</visibility>
+  <version>0.23.83</version>
+</Meta>
