@@ -10,5 +10,12 @@ namespace SafeTravel
         {
             CharaPatch.TickPrefix(__instance: __instance);
         }
+        
+        [HarmonyPrefix]
+        [HarmonyPatch(declaringType: typeof(Player), methodName: nameof(Player.EnterLocalZone), argumentTypes: new[] { typeof(bool), typeof(Chara) })]
+        internal static bool PlayerEnterLocalZone(bool encounter)
+        {
+            return PlayerPatch.EnterLocalZonePrefix(encounter: encounter);
+        }
     }
 }

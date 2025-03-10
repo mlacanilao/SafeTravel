@@ -17,7 +17,7 @@
     [h1] Compatibility [/h1]
     This mod works with existing save files.
 
-    Supports Game Version: 0.23.83
+    Supports Game Version: 0.23.99
 
     [h1] 特徴 [/h1]
     [list]
@@ -28,9 +28,9 @@
     [h1] 互換性 [/h1]
     このMODは既存のセーブデータと互換性があります。
 
-    対応ゲームバージョン: 0.23.83
+    対応ゲームバージョン: 0.23.99
   </description>
   <tags>General, Balance</tags>
   <visibility>Public</visibility>
-  <version>0.23.83</version>
+  <version>0.23.99</version>
 </Meta>
